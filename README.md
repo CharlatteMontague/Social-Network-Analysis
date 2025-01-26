@@ -1,1 +1,1 @@
-# Social-Network-Analysis
+Program reads username and that username's follower from an input file into a class file with the followers being put into a vector. The program will then find the root, the username with the most followers and highest in alphabetical order, and output the roots followers as well as the followers followers in alphabetical order.
